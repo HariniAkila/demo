@@ -8,6 +8,7 @@ public class AdditionTest {
 	public void add()
 	{
 		 Assert.assertEquals(2, 2);
+		 Assert.assertEquals(1, 3);
 	}
 
 }
